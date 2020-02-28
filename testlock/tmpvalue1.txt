@@ -1,0 +1,5 @@
+adb shell cat /sys/class/gpio/gpio183/value 1
+adb shell cat /sys/class/gpio/gpio322/value 1
+adb shell cat /sys/class/gpio/gpio33/value 1
+adb shell cat /sys/class/gpio/gpio338/value 1
+adb shell cat /sys/class/gpio/gpio343/value 1
